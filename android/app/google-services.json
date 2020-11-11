@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "679871709939",
+    "firebase_url": "https://friendlyeats-flutter-codelab.firebaseio.com",
+    "project_id": "friendlyeats-flutter-codelab",
+    "storage_bucket": "friendlyeats-flutter-codelab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679871709939:android:e501406d0149cacc352d86",
+        "android_client_info": {
+          "package_name": "com.example.friendlyeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679871709939-o1p3a0v5a53fqaoccfl42237vjvue85o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI-1B1afbIH1-XOmRGiH3MQXhygnmgRnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679871709939-o1p3a0v5a53fqaoccfl42237vjvue85o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "679871709939-g9gig243h050vjvur0l84j1fqrh8sp5b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.friendlyeats"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
